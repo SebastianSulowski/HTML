@@ -1,0 +1,16 @@
+h1 {
+  background: grey;
+  font-size: 22px;
+}
+
+
+.first {
+ colour: blue;
+ font-size: 30px;
+ margin-left: 2px
+}
+.second {
+font-size: 18px;
+  color: orange;
+  margin-left: 30px;
+}
